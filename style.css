@@ -30,7 +30,7 @@
 }
 .header{
     
-    background-image: url('Photos/pexels-mart-production-7679438.jpg');
+    background-image: url('photos/pexels-mart-production-7679438.jpg');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -143,38 +143,38 @@ h1{
     transform: scale(1.1);
 }
 .services .serv1{
-    background-image: url('Photos/img1.jpg');
+    background-image: url('photos/img1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 
 }
 .services .serv2{
-    background-image: url('Photos/img3.jpg');
+    background-image: url('photos/img3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .services .serv3{
-    background-image: url('Photos/img5.jpg');
+    background-image: url('photos/img5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .services .serv4{
-    background-image: url('Photos/img7.jpg');
+    background-image: url('photos/img7.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .services .serv5{
-    background-image: url('Photos/img2.jpg');
+    background-image: url('photos/img2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .services .serv6{
-    background-image: url('Photos/img4.jpg');
+    background-image: url('photos/img4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
